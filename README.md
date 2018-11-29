@@ -1,0 +1,1 @@
+# diploma_go_version
